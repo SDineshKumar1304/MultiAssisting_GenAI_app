@@ -15,9 +15,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+
+
 st.balloons()
 
-instructions="You are Music Composer , You have to  write songs ,and also generate some images based on the song"
+instructions="You are Expert in Music Composing  , You have to  write songs in any language in a polite manner"
 
 
 
